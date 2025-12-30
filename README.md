@@ -11,7 +11,8 @@
 [![](https://visitcount.itsvg.in/api?id=PragadeeshM1608&icon=0&color=0)](https://visitcount.itsvg.in)
 
   ## 💰 You can help me by Donating
-  ![](https://github.com/PragadeeshM1608/PragadeeshM1608/blob/main/Ko-fi.gif)
+  ![](https://ko-fi.com/settings?tab=profile)
   [![Ko-Fi](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/pragadeeshm1608) 
 
   
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
