@@ -8,7 +8,11 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=PragadeeshM1608&theme=shadow_blue&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ---
+<!-- this is from vistors count-->
 [![](https://visitcount.itsvg.in/api?id=PragadeeshM1608&icon=0&color=0)](https://visitcount.itsvg.in)
+
+<!-- this from ClusterMaps -->
+<a href="https://clustrmaps.com/site/1c9iq"  title="ClustrMaps"><img src="//www.clustrmaps.com/map_v2.png?d=N2az5RdlaOfLnXC4jgx4BOLQhrwOcv4_u037FLJ6RKQ&cl=ffffff" /></a>
 
   ## 💰 You can help me by Donating
   ![](https://ko-fi.com/settings?tab=profile)
