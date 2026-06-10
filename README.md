@@ -1,5 +1,11 @@
 # 💫 About Me:
-Pragadeesh is a [Job Title] with over [X] years of experience in [Industry]. Skilled in [Skill 1] and [Skill 2], they have a proven track record of [brief career achievement]. They hold a [Degree] from [University] and are passionate about [Industry Goal]
+💻 Passionate about software development, web technologies, artificial intelligence, and problem-solving.
+
+📚 I enjoy exploring new technologies, contributing to projects, and turning ideas into practical solutions.
+
+🌱 Currently focused on improving my software engineering skills and building impactful applications.
+
+📫 Let's connect and collaborate on innovative projects.
 
 
 ## 🌐 Socials:
