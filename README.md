@@ -22,7 +22,7 @@ Pragadeesh is a [Job Title] with over [X] years of experience in [Industry]. Ski
 ![](https://github-contributor-stats.vercel.app/api?username=PragadeeshM1608&limit=5&theme=neon&combine_all_yearly_contributions=true)
 
 ---
-[![](https://komarev.com/ghpvc/?username=PragadeeshM1608&icon=3&color=7)](https://visitcount.itsvg.in)
+[![](https://komarev.com/ghpvc/?username=PragadeeshM1608&icon=3&Color=White)](https://visitcount.itsvg.in)
 
   ## 💰 You can help me by Donating
   [![Ko-Fi](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/https://ko-fi.com/pragadeeshm1608) 
