@@ -1,4 +1,4 @@
-# <p align="center">Hi, I am Pragadeesh</p>
+# <p align="center">Hi🙋‍♂️, I am Pragadeesh🧑‍💻</p>
 
 💻 Passionate about software development, web technologies, artificial intelligence, and problem-solving.
 
