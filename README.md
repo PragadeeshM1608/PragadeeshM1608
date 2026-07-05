@@ -1,4 +1,4 @@
-# <h2 style="text-align: center;">Hi, I am Pragadeesh</h2>
+# <p align="center">Pragadeesh</p>
 
 💻 Passionate about software development, web technologies, artificial intelligence, and problem-solving.
 
