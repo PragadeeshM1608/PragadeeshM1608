@@ -1,4 +1,5 @@
-# 💫 About Me:
+# <h2 style="text-align: center;">Hi, I am Pragadeesh</h2>
+
 💻 Passionate about software development, web technologies, artificial intelligence, and problem-solving.
 
 📚 I enjoy exploring new technologies, contributing to projects, and turning ideas into practical solutions.
